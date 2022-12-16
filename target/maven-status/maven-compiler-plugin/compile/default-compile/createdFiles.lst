@@ -1,6 +1,0 @@
-com\ibk\h2\api\service\ClientService.class
-com\ibk\h2\api\controller\ClientController.class
-com\ibk\h2\api\repository\ClientRepository.class
-com\ibk\h2\api\model\Client.class
-com\ibk\h2\api\SpringBootH2Application.class
-com\ibk\h2\api\service\ClientServiceImpl.class
